@@ -1,0 +1,17 @@
+{
+  "name": "ideas_feather_socket",
+  "version": "1.0.0",
+  "description": "A livestream project ideas built with Express, Feather and Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Hoang Liem Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.4",
+    "@feathersjs/feathers": "^4.3.4",
+    "@feathersjs/socketio": "^4.3.4",
+    "moment": "^2.24.0"
+  }
+}
